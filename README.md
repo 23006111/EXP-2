@@ -1,5 +1,4 @@
-# EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+# EXP-2-OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 # Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -55,6 +54,9 @@ Load test
 ![WhatsApp Image 2025-09-14 at 6 00 51 PM](https://github.com/user-attachments/assets/aa2a03bf-af2e-4be7-9386-647dde69066a)
 
 <img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/82f9fb82-1f57-4165-803d-7671914f1b35" />
+<img width="1120" height="877" alt="image" src="https://github.com/user-attachments/assets/d303d9ec-8ff9-4cec-8a4a-45a5ccb298c4" />
+
+
 
 
 
